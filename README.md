@@ -1,1 +1,1 @@
-# DAM2-Esquelet-Basic-Projecte
+# DAM2-Esquelet-Basic-Projecte-Java-Maven
